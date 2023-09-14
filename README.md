@@ -1,16 +1,12 @@
-# download_speed_calculation
+# Merhaba,
 
-A new Flutter project.
+Bu projede, dosya boyutunu ve indirme hızını kullanarak belirli bir dosyanın indirme süresini hesaplayan bir uygulama geliştirdim. Bu uygulama, kullanıcıların dosya indirme işlemlerini daha iyi planlamalarına yardımcı olacak.(Hata Payı girilen değerin boyutuna göre değişmektedir. %100 doğru değildir.)
 
-## Getting Started
+Kullanıcılar, indirmeyi planladıkları dosyanın boyutunu girebilirler ve ayrıca kullandıkları internet bağlantısının hızını belirtebilirler. Ardından uygulama, dosyanın tamamlanması için tahmini süreyi hesaplar. Bu, kullanıcıların dosya indirme işlemini ne zaman başlatmaları gerektiği konusunda fikir sahibi olmalarına yardımcı olur.
 
-This project is a starting point for a Flutter application.
+Teşekkürler!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Ekran Görüntüsü (1)](https://github.com/ahmetenesTARTICI/download_speed_calculation/assets/96331949/ca78d849-0a12-470c-be82-f6d9c77209dd)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
