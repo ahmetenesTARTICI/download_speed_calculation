@@ -11,4 +11,4 @@ Teşekkürler!
 
 ![Ekran Görüntüsü (2)](https://github.com/ahmetenesTARTICI/download_speed_calculation/assets/96331949/7fab5645-63a4-43dd-865a-21eebbb85be5)
 
-
+![Ekran Görüntüsü (3)](https://github.com/ahmetenesTARTICI/download_speed_calculation/assets/96331949/82d84ca9-22ff-4b0f-888e-97c0551f14d6)
